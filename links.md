@@ -20,3 +20,8 @@ Tasks from Operating Systems Class 22/23
 3. [Operating System Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)<br>
 Web version of OS pdf.
 
+4. [C Tutorial](https://www.learn-c.org)<br>
+Learn C from basic
+
+5.[Cybersecurity Fundamentals](https://www.youtube.com/watch?v=5MMoxyK1Y9o)<br>
+Understanding Cybersecurity Basics
