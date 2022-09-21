@@ -3,8 +3,9 @@ permalink: LINKS/
 ---
 <span style="color:blue; font-weight:bold; font-size:larger;">Yan Christofer S.</span>
 <br><br>
-[LINKS](https://github.com/yancheesetofer/os222/blob/main/links.md) ---
-[LOG](https://github.com/yancheesetofer/os222/blob/main/TXT/mylog.txt) ---
+[LINKS](https://github.com/yancheesetofer/os222/blob/main/links.md)
+[LOG](https://github.com/yancheesetofer/os222/blob/main/TXT/mylog.txt)
+---
 [GITHUB](https://github.com/yancheesetofer/os222)
 <br>
 <hr>
