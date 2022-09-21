@@ -1,5 +1,5 @@
 ---
-permalink: LINKS/
+permalink: /LINKS/
 ---
 <span style="color:blue; font-weight:bold; font-size:larger;">Yan Christofer S.</span>
 <br><br>
