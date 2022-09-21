@@ -24,5 +24,5 @@ Web version of OS pdf.
 4. [C Tutorial](https://www.learn-c.org)<br>
 Learn C from basic
 
-5.[Cybersecurity Fundamentals](https://www.youtube.com/watch?v=5MMoxyK1Y9o)<br>
+5. [Cybersecurity Fundamentals](https://www.youtube.com/watch?v=5MMoxyK1Y9o)<br>
 Understanding Cybersecurity Basics
