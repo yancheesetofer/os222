@@ -26,3 +26,15 @@ Learn C from basic
 
 5. [Cybersecurity Fundamentals](https://www.youtube.com/watch?v=5MMoxyK1Y9o)<br>
 Understanding Cybersecurity Basics
+
+6. [FUSE in Linux Kernel](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+Brief Explanation about FUSE
+
+7. [File Systems Crash Course](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
+Video that explains Files and File Systems with animation
+
+8. [Linux Direcotries Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+Simply explains Directories in Linux
+
+9. [Popular Vim Commands](https://www.keycdn.com/blog/vim-commands)<br>
+You probably need this kind of cheatsheet in the future

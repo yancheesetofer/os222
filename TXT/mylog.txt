@@ -32,4 +32,12 @@ ZCZC W02 60 L12 Doing weekly assignment
 ZCZC W02 20 L03 Set up git
 ZCZC W02 60 L09 Updating links
 ZCZC W02 60 L23 Review Bash, Regex, AWK
-ZCZC 202 20 L09 Git Related
+ZCZC W02 20 L09 Git Related
+ZCZC W03 180 L09 Reading assignment W03
+ZCZC W03 120 L02 Meeting
+ZCZC W03 45 L26 Assymetrical Encryption for yancheesetofer.txt
+ZCZC W03 45 L06 Review others' LINKS
+ZCZC W03 90 L06 Learning File Systems
+ZCZC W03 105 L99 Onsite Lecture
+ZCZC W03 75 L13 Doing hard disk assignment
+ZCZC W03 30 L13 Finishing assignments
