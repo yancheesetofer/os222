@@ -41,3 +41,9 @@ ZCZC W03 90 L06 Learning File Systems
 ZCZC W03 105 L99 Onsite Lecture
 ZCZC W03 75 L13 Doing hard disk assignment
 ZCZC W03 30 L13 Finishing assignments
+ZCZC W04 100 L02 Online Class
+ZCZC W04 110 L99 Offline Class
+ZCZC W04 15 L03 Github related including checking ssh-rsa
+ZCZC W04 70 L05 Quiz and preparations
+ZCZC W04 50 L09 Finishing Assignments
+ZCZC W04 120 L06 GSGS this week materials
