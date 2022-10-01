@@ -38,3 +38,9 @@ Simply explains Directories in Linux
 
 9. [Popular Vim Commands](https://www.keycdn.com/blog/vim-commands)<br>
 You probably need this kind of cheatsheet in the future
+
+10. [C Pointers Tutorial](https://www.w3schools.com/c/c_pointers.php)<br>
+Learn about C pointers
+
+11. [WGET IN LINUX](https://linuxize.com/post/wget-command-examples/)<br>
+what is wget command?
