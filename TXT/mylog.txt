@@ -47,3 +47,9 @@ ZCZC W04 15 L03 Github related including checking ssh-rsa
 ZCZC W04 70 L05 Quiz and preparations
 ZCZC W04 50 L09 Finishing Assignments
 ZCZC W04 120 L06 GSGS this week materials
+ZCZC W05 5 L05 OS Quiz
+ZCZC W05 15 L21 Exporting OVA
+ZCZC W05 100 L02 OS Class
+ZCZC W05 150 L09 Doing OS Assignment
+ZCZC W05 200 L70 Studying other courses
+ZCZC W05 100 L06 Reading Other References

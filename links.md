@@ -44,3 +44,14 @@ Learn about C pointers
 
 11. [WGET IN LINUX](https://linuxize.com/post/wget-command-examples/)<br>
 what is wget command?
+
+12. [Linux Cheatsheet for Checking Memory Usage](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-linux-101-5-commands-for-checking-memory-usage-in-linux)<br>
+Learn new commands (READ TITLE!)
+
+13. [Increment and Decrement Operators in C](https://byjus.com/gate/increment-and-decrement-operators-in-c/)<br>
+Learn about incrementing and decrementing in C
+
+14. [What is Kernel Panic?](https://www.techtarget.com/searchdatacenter/definition/kernel-panic)<br>
+Have you experienced Kernel Panic?
+
+
