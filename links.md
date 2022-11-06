@@ -43,6 +43,7 @@ You probably need this kind of cheatsheet in the future
 Learn about C pointers
 
 11. [WGET IN LINUX](https://linuxize.com/post/wget-command-examples/)<br>
+<<<<<<< Updated upstream
 what is wget command?
 
 12. [Linux Cheatsheet for Checking Memory Usage](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-linux-101-5-commands-for-checking-memory-usage-in-linux)<br>
@@ -55,3 +56,15 @@ Learn about incrementing and decrementing in C
 Have you experienced Kernel Panic?
 
 
+=======
+What is wget command?
+
+12. [Fork in Linux](https://man7.org/linux/man-pages/man2/fork.2.html)<br>
+Have you ever heard about fork?
+
+13. [Fork with C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+More about fork in C language
+
+14. [Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)<br>
+Shared memory simplified
+>>>>>>> Stashed changes
