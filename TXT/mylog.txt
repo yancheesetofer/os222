@@ -53,3 +53,7 @@ ZCZC W05 100 L02 OS Class
 ZCZC W05 150 L09 Doing OS Assignment
 ZCZC W05 200 L70 Studying other courses
 ZCZC W05 100 L06 Reading Other References
+ZCZC W06 120 L09 Doing OS Assignment
+ZCZC W06 100 L99 Onsite Lecture
+ZCZC W06 60 L09 Reading Assignment
+ZCZC W06 60 L09 Preparation for pop quiz

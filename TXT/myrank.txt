@@ -8,11 +8,9 @@ ZCZC W03 gibranoderenz
 ZCZC W04 valeelim
 ZCZC W04 tommyraspati
 ZCZC W04 syafiqoarashy
-<<<<<<< Updated upstream
 ZCZC W05 RoyNbb
 ZCZC W05 fajarriv
 ZCZC W05 fadhlanhasyim
-
-=======
-ZCZC W06 fadhlanhasyim
->>>>>>> Stashed changes
+ZCZC W06 glanharith
+ZCZC W06 kayleerudaina
+ZCZC W06 kausarme
