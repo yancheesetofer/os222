@@ -62,3 +62,12 @@ More about fork in C language
 
 17. [Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)<br>
 Shared memory simplified.
+
+18. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+Synchronization in Operating System
+
+19. [Deadlocks](https://www.javatpoint.com/os-deadlocks-introduction)<br>
+Waiting for resources...
+
+20. [scp your file](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
+About SCP Command

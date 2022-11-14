@@ -57,3 +57,11 @@ ZCZC W06 120 L09 Doing OS Assignment
 ZCZC W06 100 L99 Onsite Lecture
 ZCZC W06 60 L09 Reading Assignment
 ZCZC W06 60 L09 Preparation for pop quiz
+ZCZC W07 120 L09 Weekly Assignments
+ZCZC W07 15 L05 Quiz
+ZCZC W07 15 L00 General, etc.
+ZCZC W07 20 L03 Github and git related, including commit, push, pull
+ZCZC W07 10 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W07 100 L99 Onsite Lecture
+ZCZC W07 100 L99 Onsite Lecture
+ZCZC W07 30 L06 GSGS
