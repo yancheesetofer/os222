@@ -70,4 +70,10 @@ ZCZC W08 100 L99 Onsite Lecture
 ZCZC W08 120 L05 Quiz
 ZCZC W08 40 L00 General,etc.
 ZCZC W08 240 L09 Weekly Assignments
-
+ZCZC W09 5 L05 OS Quiz
+ZCZC W09 10 L05 OS Quiz
+ZCZC W09 100 L02 OS Class
+ZCZC W09 600 L09 Doing OS Assignment
+ZCZC W09 200 L70 Studying other courses
+ZCZC W09 100 L06 Reading Other References
+ZCZC W09 100 L02 OS Class

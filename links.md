@@ -71,3 +71,13 @@ Waiting for resources...
 
 20. [scp your file](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
 About SCP Command
+
+21. [Mass Storage System](https://www.cs.odu.edu/~price/cs471/public_html/spring17/lectures/MassStorage.htm)<br>
+Learn Mass Storage System
+
+22. [Linux From Scratch Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+Have yourself a clear guide on LFS 
+
+23. [Setting The $LFS Variable](https://www.linuxfromscratch.org/lfs/view/11.1/chapter02/aboutlfs.html)
+Never skip this step on LFS!
+
