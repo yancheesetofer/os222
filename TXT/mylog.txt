@@ -77,3 +77,17 @@ ZCZC W09 600 L09 Doing OS Assignment
 ZCZC W09 200 L70 Studying other courses
 ZCZC W09 100 L06 Reading Other References
 ZCZC W09 100 L02 OS Class
+ZCZC W10 80 L00 Checking the website, course, syllabus
+ZCZC W10 40 L01 Checking SCELE for any updates
+ZCZC W10 200 L02 Online and Offline Class
+ZCZC W10 20 L03 Git related
+ZCZC W10 20 L04 Github pages related
+ZCZC W10 60 L05 Preparing for the weekly Quiz and Doing it
+ZCZC W10 300 L20 Assignment #05
+ZCZC W10 120 L70 Studying other courses
+ZCZC W10 30 L62 Restore virtual debian guest
+ZCZC W10 80 L71 Attend fasilkom event
+ZCZC W10 600 L80 Watching Youtube tutorial how to build linux from scratch
+ZCZC W10 30 L81 Listening to Music
+ZCZC W10 30 L86 Washing Clothes, Doing House Chores
+ZCZC W10 80 L88 Workout and Exercises

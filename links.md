@@ -81,3 +81,8 @@ Have yourself a clear guide on LFS
 23. [Setting The $LFS Variable](https://www.linuxfromscratch.org/lfs/view/11.1/chapter02/aboutlfs.html)
 Never skip this step on LFS!
 
+24. [Debugging Symbols](https://www.tutorialspoint.com/gnu_debugger/gdb_debugging_symbols.htm)<br>
+Have ever heard about GDB?
+
+25. [Putty Documentation](https://www.chiark.greenend.org.uk/~sgtatham/putty/docs.html)<br>
+Putty is really helpful
